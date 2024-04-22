@@ -1,0 +1,22 @@
+{
+    "singers": [
+        {
+        "singer_name": "周杰伦",
+        "singer_pic": "https://tse1-mm.cn.bing.net/th/id/OIP-C.Z-GxT5yk9u9fok0HqDEufAHaFg?w=255&h=190&c=7&r=0&o=5&pid=1.7",
+        "singer_id": 4558,
+        "id": 1
+        },
+        {
+        "singer_name": "林俊杰",
+        "singer_pic": "https://tse3-mm.cn.bing.net/th/id/OIP-C.iL1b5tQgcpqMJSLOoIjbugHaJQ?w=204&h=255&c=7&r=0&o=5&pid=1.7",
+        "singer_id": 4559,
+        "id": 2
+        },
+        {
+        "singer_name": "G.E.M. 邓紫棋",
+        "singer_pic": "https://tse1-mm.cn.bing.net/th/id/OIP-C.G1Qt5VNFQJ6dQ4dvbuHLYwHaJ4?w=134&h=180&c=7&r=0&o=5&pid=1.7",
+        "singer_id": 4560,
+        "id": 3
+        }
+    ]
+}
